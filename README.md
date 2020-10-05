@@ -11,6 +11,7 @@ Recently CUDA 11 was released together with a newer version of CuDNN. The prebui
 |TensorFlow|Python|CUDA|CuDNN|Compute Capability|OS|Link|
 |---:|---:|---:|---:|---:|---:|---:|
 |2.4.0|3.8|11.0|8.0|5.2|Ubuntu 20.04|[tensorflow-2.4.0-cp38-cp38-linux_x86_64.whl](https://github.com/marcossilva/tensorflow-cuda11-wheel/releases/download/v2.4.0/tensorflow-2.4.0-cp38-cp38-linux_x86_64.whl)|
+|2.4.0|3.8|11.0|8.0|6.1|Ubuntu 20.04|[tensorflow-2.4.0-cp38-cp38-linux_x86_64.whl](hhttps://github.com/marcossilva/tensorflow-cuda11-wheel/releases/download/v2.4.1/tensorflow-2.4.0-cp38-cp38-linux_x86_64.whl)|
 ## Installation
 
 Assuming you have all the requirements, you can install the wheel directly via pip:
